@@ -10,7 +10,7 @@ Play pinknoise into two microphones; preferably one with a flat response.
 
 You can obtain pink noise from here: https://github.com/steveseguin/pink-noise-generator
 
-Run the script and use the two audio samples
+Run the script from Google Colab (Frequency_Response_analysis.ipynb) and use the two audio samples you recorded as inputs.
 
 ~ ENjoy
 
