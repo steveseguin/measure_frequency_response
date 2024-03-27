@@ -1,5 +1,5 @@
-# measure_frequency_response
-Used for creating a frequency response graph.  Supports calibration files.
+# Measure Frequency Response
+Used for creating a frequency response graph of a microphone, or the relative response between two mics.  Supports calibration files.
 
 This is a Google Colab document, so it's essentially Python in the cloud for free.
 
