@@ -1,5 +1,5 @@
 # Measure Frequency Response
-Used for creating a frequency response graph of a microphone, or the relative response between two mics.  Supports calibration files.
+Used for creating a frequency response graph of a microphone, or the relative response between two mics.  Supports calibration files, such as those supplied by Dayton Audio (EMM-6, UMM-6, iMM-6 for example)
 
 This is a Google Colab document, so it's essentially Python in the cloud for free.
 
